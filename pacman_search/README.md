@@ -1,14 +1,13 @@
 # Teaching Pac-Man to Search
---
 
 ### Demo:
 <div style="text-align:center"><img src="./pacman.gif"/></div> 
 
 ### Goal:
 * Use **BFS**, **DFS**, and **A*** to teach Pac-Man to search his world to complete the following tasks:
- * Find a single obstacle
- * Find multiple obstacles
- * Find the fastest way to eat all the food in the map
+  * Find a single obstacle
+  * Find multiple obstacles
+  * Find the fastest way to eat all the food in the map
 
 ### Repo Structure:
 * [`./src/`](./src/): source code from UC Berkeley AI division found [here](https://inst.eecs.berkeley.edu/~cs188/fa10/projects/search/search.html)

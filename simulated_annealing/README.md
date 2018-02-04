@@ -1,5 +1,4 @@
 # Simulated Annealing
---
 
 <div style="text-align:center"><img src="./SA_animation.gif"/></div> 
 

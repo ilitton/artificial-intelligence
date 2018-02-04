@@ -7,29 +7,29 @@ This repository contains all my code for the
 
 <table style="width:105%">
   <tr>
-    <th width="50%" height="50%">
+    <th width="35%" height="35%">
       <p align="center">
-           <a href="./sudoku_solver"><img src="./sudoku_solver/output/solve.gif" alt="Overview" width="75%" height="75%"></a>
+           <a href="./sudoku_solver"><img src="./sudoku_solver/output/solve.gif" alt="Overview" width="50%" height="50%"></a>
            <br>Sudoku Solver</br>
       </p>
     </th>
-    <th width="50%" height="50%">
+    <th width="35%" height="35%">
       <p align="center">
-           <a href="./isolation_agent"><img src="./isolation_agent/writeup/viz.gif" alt="Overview" width="95%" height="95%"></a>
+           <a href="./isolation_agent"><img src="./isolation_agent/writeup/viz.gif" alt="Overview" width="75%" height="75%"></a>
            <br>Isolation Agent</br>
       </p>
    </th>
   </tr>
   <tr>
-  	<th width="50%" height="50%">
+  	<th width="35%" height="35%">
   		<p align="center">
-          <a href="./domain_independent_planner"><img src="./domain_independent_planner/writeup/images/viz.gif" alt="Overview" width="125% height="125%"></a>
+          <a href="./domain_independent_planner"><img src="./domain_independent_planner/writeup/images/viz.gif" alt="Overview" width="75% height="75%"></a>
           <br>Domain Independent Planner</br>
       </p>
     </th>
-    <th width="50%" height="50%">
+    <th width="35%" height="35%">
     	<p align="center">
-          <a href="./sign_language_recognizer"><img src="./sign_language_recognizer/viz.gif" alt="Overview" width="125%" height="125%"></a>
+          <a href="./sign_language_recognizer"><img src="./sign_language_recognizer/viz.gif" alt="Overview" width="75%" height="75%"></a>
           <br>Sign Language Recognizer</br>
       </p>
     </th>

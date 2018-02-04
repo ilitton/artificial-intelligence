@@ -1,5 +1,4 @@
 # Constraint Satisfaction
---
 
 <div style="text-align:center"><img src="./EightQueens.gif"/></div> 
 

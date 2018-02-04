@@ -1,10 +1,9 @@
 
 # Implement a Planning Search
---
 
 <div style="text-align:center"><img src="./writeup/images/viz.gif"/></div> 
 
-###Goal:
+### Goal:
 
 * Build a planning search agent that solves deterministic logistics planning problems for an Air Cargo transport system
 * Implement progression search algorithms like those described in the navigation problem from lectures

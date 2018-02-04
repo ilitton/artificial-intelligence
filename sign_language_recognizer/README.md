@@ -1,9 +1,8 @@
 # Sign Language Recognition System
---
 
 <div style="text-align:center"><img src="./viz.gif"/></div> 
 
-###Goal:
+### Goal:
 
 * Build a system that can recognize words communicated using the American Sign Language (ASL)
 * Train a set of Hidden Markov Models (HMMs) to try and identify individual words from test sequences
